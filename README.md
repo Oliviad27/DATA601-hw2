@@ -12,7 +12,8 @@ For this project I used the [YELP API](https://api.yelp.com/v3/businesses/search
 [Notebook](https://github.com/Oliviad27/DATA601-hw2/blob/main/DATA601%20hw2.ipynb)
 
 ### Visualizations
-[Ratings](https://github.com/Oliviad27/DATA601-hw2/blob/main/ratings.png) \n
+[Ratings](https://github.com/Oliviad27/DATA601-hw2/blob/main/ratings.png) 
+<br>
 [Reviews](https://github.com/Oliviad27/DATA601-hw2/blob/main/reviews.png)
 
 
