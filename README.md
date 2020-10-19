@@ -15,6 +15,8 @@ For this project I used the [YELP API](https://api.yelp.com/v3/businesses/search
 [Ratings](https://github.com/Oliviad27/DATA601-hw2/blob/main/ratings.png) 
 <br>
 [Reviews](https://github.com/Oliviad27/DATA601-hw2/blob/main/reviews.png)
+<br>
+[Scatter Plot](https://github.com/Oliviad27/DATA601-hw2/blob/main/scatter.png)
 
 
 
